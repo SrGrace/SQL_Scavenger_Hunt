@@ -1,5 +1,5 @@
 # SQL_scavenger_hunt
-SQL Scavenger Hunt from Kaggle
+SQL Scavenger Hunt [Kaggle](https://www.kaggle.com/)
 
 
 
